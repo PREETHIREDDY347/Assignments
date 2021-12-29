@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "networklog", "networklog\networklog.csproj", "{E5A79C80-5AAC-4F9A-B7B4-D350282DE01A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A79C80-5AAC-4F9A-B7B4-D350282DE01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A79C80-5AAC-4F9A-B7B4-D350282DE01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A79C80-5AAC-4F9A-B7B4-D350282DE01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A79C80-5AAC-4F9A-B7B4-D350282DE01A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBDFFC61-DFCA-4C5C-8083-5D213C4E07FC}
+	EndGlobalSection
+EndGlobal
